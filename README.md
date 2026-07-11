@@ -219,7 +219,8 @@ These explanations provide instance-level insights into how individual features 
 - General Vaccine Perception
 - Age
 
-*(Insert SHAP Summary Plot)*
+<img width="289" height="320" alt="image" src="https://github.com/user-attachments/assets/100d8117-2526-4ee2-8215-d6f07d660684" />
+
 
 ---
 
@@ -229,7 +230,8 @@ These explanations provide instance-level insights into how individual features 
 - Mean Vaccine Misinformation & Trust
 - General Vaccine Perception
 
-*(Insert SHAP Summary Plot)*
+<img width="298" height="332" alt="image" src="https://github.com/user-attachments/assets/1d992d2f-9c9d-428d-93d7-23cb5b9f0a3f" />
+
 
 ---
 
